@@ -32,9 +32,9 @@
 * Провести рефакторинг проекта (убрать нагромождения кода, привести к принципу DRY)
 
 #### Технологии:
-*Python
-*Pandas
-*openpyxl
-*matplotlib
+* [Python](https://www.python.org/ "https://www.python.org/")
+* [Pandas](https://pandas.pydata.org/ "https://pandas.pydata.org/")
+* [openpyxl](https://openpyxl.readthedocs.io/ "https://openpyxl.readthedocs.io/")
+* [matplotlib](https://matplotlib.org/ "https://matplotlib.org/")
 
-#### Автор: [VladisloveRus](https://github.com/VladisloveRus "github.com/VladisloveRus")
+#### Автор: [VladisloveRus](https://github.com/VladisloveRus "https://github.com/VladisloveRus")
