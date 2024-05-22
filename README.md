@@ -23,7 +23,7 @@
 
 Для настройки диапазона получаемой выборки нужно поменять значения DATE_EARLIEST_LIMIT и DATE_LATEST_LIMIT в файле main.py
 
-Результат выполнения программы можно наблюдать в дирректории example. Там же находится описание полученного графика (описание не генерируется автоматически, анализ проведён мной вручную)
+Результат выполнения программы можно наблюдать в директории example. Там же находится описание полученного графика (описание не генерируется автоматически, анализ проведён мной вручную)
 
 #### TODO:
 * Привести README.md в красивый вид, добавить технологии
@@ -32,5 +32,9 @@
 * Провести рефакторинг проекта (убрать нагромождения кода, привести к принципу DRY)
 
 #### Технологии:
-![Python](https://www.python.org/static/community_logos/python-logo.png "Python")![Pandas](https://pandas.pydata.org/static/img/pandas.svg "Pandas")![openpyxl](https://openpyxl.readthedocs.io/en/stable/_static/logo.png "openpyxl")![matplotlib](https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png "matplotlib")
+*Python
+*Pandas
+*openpyxl
+*matplotlib
+
 #### Автор: [VladisloveRus](https://github.com/VladisloveRus "github.com/VladisloveRus")
