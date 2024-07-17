@@ -78,7 +78,7 @@ def create_month_table(begin_limit, end_limit):
         table[month_year_record] = IDENTIFICATOR_NO_DATA
         if (current_month_year[0] + 1) > 12:
             current_month_year[0] = 0
-            current_month_year[1] = 1
+            current_month_year[1] += 1
         current_month_year[0] += 1
         date_delta -= 1
     return table
@@ -246,7 +246,7 @@ def graph_output():
                         )
                 if (current_month_year[0] + 1) > 12:
                     current_month_year[0] = 0
-                    current_month_year[1] = 1
+                    current_month_year[1] += 1
                 current_month_year[0] += 1
     keys_list = table.keys()
     for month_year in keys_list:
